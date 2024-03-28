@@ -23,27 +23,27 @@ public class PersonService {
 		p.setId("2");
 		p.setAge(25);
 		p.setFirstName("Rachid");
-		p.setLastName("Rachidi");
+		p.setLastName("Rochdi");
 		persons.add(p);
 		
 		p = new Person();
 		p.setId("3");
 		p.setAge(25);
 		p.setFirstName("Basma");
-		p.setLastName("Bassimi");
+		p.setLastName("Bassimina");
 		persons.add(p);
 		
 		p = new Person();
 		p.setId("4");
 		p.setAge(25);
-		p.setFirstName("Adil");
-		p.setLastName("Adili");
+		p.setFirstName("ahmed");
+		p.setLastName("saadi");
 		persons.add(p);
 		
 		p = new Person();
 		p.setId("5");
 		p.setAge(25);
-		p.setFirstName("webhook");
+		p.setFirstName("webhook-github-actions");
 		p.setLastName("testJenjinsJob");
 		persons.add(p);
 		
